@@ -9,12 +9,9 @@
     "decimals": 18,
     "market": 1027,
     "links": [
-        {
-            "name": "github",
-            "url": "https://coinmarketcap.com/currencies/ethereum/"
-        },
+       
        {
-            "name": "coinmarketcap",
+            "name": "github",
             "url": "https://github.com/ethereum"
         },
         {
