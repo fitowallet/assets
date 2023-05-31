@@ -2,10 +2,10 @@
     "name": "Bitcoin",
     "website": "https://bitcoin.org",
     "description": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
-    "explorer": "https://api.blockcypher.com/v1/btc/main/addrs/",
+    "explorer": "https://blockchain.com/",
     "research": "https://research.binance.com/en/projects/bitcoin",
     "symbol": "BTC",
-    "decimals": 18,
+    "decimals": 8,
     "market": 1,
     "links": [
      {
