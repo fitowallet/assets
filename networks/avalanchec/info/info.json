@@ -14,8 +14,6 @@
 
     "type": "network",
 
-    "rpc_url": "https://api.avax.network/ext/bc/C/rpc",
-
     "decimals": 18,
     
     "market": 5805,
