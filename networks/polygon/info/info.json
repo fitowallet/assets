@@ -1,0 +1,14 @@
+{
+    "name": "Polygon",
+    "website": "https://www.polygon.con",
+    "description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
+    "explorer": "https://polygon.technology/",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "symbol": "MATIC",
+    "type": "network",
+    "decimals": 18,
+    "market": 3890,
+    "links": [
+       
+    ]
+}
