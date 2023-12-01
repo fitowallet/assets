@@ -36,6 +36,13 @@
 
         }
 
+    ],
+    "alert": [
+
+    "This test alert once again for your Ethereum token",
+"blue",
+     "https://github.com/ava-labs"
+
     ]
 
 }
