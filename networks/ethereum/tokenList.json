@@ -1,5 +1,12 @@
-[  {
+[ {
+            "rpc": "https://mainnet.infura.io/v3/5cf2749b881547e3b8858a72ad9ae159",
+            "chartTool": "https://www.dextools.io/app/en/ether/pair-explorer/",
             "chainId": 1,
+            "explorer": "https://etherscan.io/",
+            "accountName": "ethereum",
+            "historyId": "eth-mainnet"
+        }, {
+
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "type": "ERC20",
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
