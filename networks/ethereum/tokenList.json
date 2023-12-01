@@ -1,4 +1,4 @@
-  {
+[  {
             "chainId": 1,
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "type": "ERC20",
@@ -2996,7 +2996,4 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb/logo.png",
             "pairs": []
         }
-
-
-
-          
+]
