@@ -1,4 +1,11 @@
-[
+[ {
+            "rpc": "https://polygon-rpc.com",
+            "chartTool": "https://www.dextools.io/app/en/polygon/pair-explorer/",
+            "chainId": 137,
+            "explorer": "https://polygonscan.com/",
+            "accountName": "ethereum",
+            "historyId": "matic-mainnet"
+        },
         {
             "asset": "c966_t0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
             "type": "POLYGON",
