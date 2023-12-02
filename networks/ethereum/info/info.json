@@ -7,7 +7,7 @@
     "symbol": "ETH",
     "type": "network",
     "decimals": 18,
-    "market": 1027,
+    "market": "https://coinmarketcap.com/currencies/ethereum/",
     "links": [
        
        {
