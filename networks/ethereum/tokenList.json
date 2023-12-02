@@ -23,6 +23,7 @@
             "name": "TrueUSD",
             "symbol": "TUSD",
             "decimals": 18,
+                  "cmcId": "https://coinmarketcap.com/currencies/trueusd/",
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png",
             "pairs": []
         },
@@ -461,6 +462,7 @@
             "name": "Uniswap",
             "symbol": "UNI",
             "decimals": 18,
+                    "cmcId": "https://coinmarketcap.com/currencies/uniswap/",
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
             "pairs": []
         },
@@ -1171,6 +1173,7 @@
             "name": "Dai",
             "symbol": "DAI",
             "decimals": 18,
+                    "cmcId": "https://coinmarketcap.com/currencies/multi-collateral-dai/",
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
             "pairs": []
         },
@@ -1667,6 +1670,7 @@
             "name": "SHIBA INU",
             "symbol": "SHIB",
             "decimals": 18,
+                    "cmcId": "https://coinmarketcap.com/currencies/shiba-inu/",
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png",
             "pairs": []
         },
@@ -2438,6 +2442,7 @@
             "name": "Tether",
             "symbol": "USDT",
             "decimals": 6,
+            "cmcId": "https://coinmarketcap.com/currencies/tether/",
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
             "pairs": []
         },
