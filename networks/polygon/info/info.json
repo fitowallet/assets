@@ -7,7 +7,7 @@
     "symbol": "MATIC",
     "type": "network",
     "decimals": 18,
-    "market": 3890,
+    "market": "https://coinmarketcap.com/currencies/polygon/",
     "links": [
        
     ]
