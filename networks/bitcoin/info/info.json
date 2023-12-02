@@ -6,7 +6,7 @@
     "research": "https://research.binance.com/en/projects/bitcoin",
     "symbol": "BTC",
     "decimals": 8,
-    "market": 1,
+    "market": "https://coinmarketcap.com/currencies/bitcoin/",
     "links": [
      {
             "name": "github",
