@@ -16,7 +16,7 @@
 
     "decimals": 18,
     
-    "market": 5805,
+    "market": "https://coinmarketcap.com/currencies/avalanche/",
 
     "links": [
 
