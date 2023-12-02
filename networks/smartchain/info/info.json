@@ -7,7 +7,7 @@
     "symbol": "BNB",
     "type": "network",
     "decimals": 18,
-    "market": 1839,
+    "market": "https://coinmarketcap.com/currencies/bnb/",
     "links": [
         {
             "name": "github",
