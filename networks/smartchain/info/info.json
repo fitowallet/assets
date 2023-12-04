@@ -7,28 +7,10 @@
     "symbol": "BNB",
     "type": "network",
     "decimals": 18,
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/smartchain/info/logo.png",
     "chartTool": "https://www.dextools.io/app/en/bnb/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/bnb/",
     "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/binance-chain/"
-        },
-       {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/bnb/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BNBCHAIN"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/BinanceExchange"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
-        }
+
     ]
 }
