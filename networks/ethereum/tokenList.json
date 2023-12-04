@@ -49,6 +49,18 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png",
             "pairs": []
         },
+            {
+            "asset": "c60_t0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+            "type": "ERC20",
+            "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+            "name": "DEXTools",
+                        "website": "https://www.dextools.io/",
+            "symbol": "DEXT",
+            "decimals": 18,
+                        "cmcId": "https://coinmarketcap.com/currencies/dextools/",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5866.png",
+            "pairs": []
+        },
         {
             "asset": "c60_t0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
             "type": "ERC20",
