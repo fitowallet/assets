@@ -1,0 +1,13 @@
+{
+    "name": "Arbitrum",
+    "website": "https://arbitrum.foundation/",
+    "description": "Arbitrum is a Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private.",
+    "explorer": "https://arbiscan.io",
+    "symbol": "ARB",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/arbitrum/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/arbitrum/",
+    "links": [
+    ]
+}
