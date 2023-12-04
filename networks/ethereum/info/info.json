@@ -7,6 +7,7 @@
     "symbol": "ETH",
     "type": "network",
     "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/ether/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
     "links": [
        
