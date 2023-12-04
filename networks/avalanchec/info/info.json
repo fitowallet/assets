@@ -9,6 +9,7 @@
     "chartTool": "https://www.dextools.io/app/en/avalanche/pairs",
     "type": "network",
     "decimals": 18,
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/avalanchec/info/logo.png",
     "market": "https://coinmarketcap.com/currencies/avalanche/",
 
     "links": [
