@@ -9,6 +9,7 @@
     "decimals": 18,
     "chartTool": "https://www.dextools.io/app/en/ether/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/ethereum/info/logo.png",
     "links": [
        
        {
