@@ -13,6 +13,7 @@
             "name": "WETH",
             "symbol": "WETH",
             "decimals": 18,
+            "cmcId": "https://coinmarketcap.com/currencies/ethereum/",
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
             "pairs": []
        },
@@ -34,6 +35,7 @@
             "name": "Tokenlon",
             "symbol": "LON",
             "decimals": 18,
+                    "cmcId": "https://coinmarketcap.com/currencies/tokenlon-network-token/",
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0000000000095413afC295d19EDeb1Ad7B71c952/logo.png",
             "pairs": []
         },
