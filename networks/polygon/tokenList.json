@@ -80,8 +80,8 @@
             "asset": "c966_t0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
             "type": "POLYGON",
             "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
-            "name": "QuickSwap",
-            "symbol": "QUICK",
+            "name": "QuickSwap-old",
+            "symbol": "QUICK-old",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.png",
             "pairs": []
