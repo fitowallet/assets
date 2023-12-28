@@ -8,7 +8,7 @@
             "historyId": "arbitrum-mainnet"
         }, 
    {
-        
+    "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",    
             "type": "ARBITRUM",
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -20,7 +20,7 @@
             "pairs": []
         },
         {
-           
+           "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
             "type": "ARBITRUM",
             "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "name": "Wrapped Ether",
@@ -31,7 +31,7 @@
             "pairs": []
         },
         {
-           
+           "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
             "type": "ARBITRUM",
             "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
             "name": "Bridged USDC",
@@ -42,7 +42,7 @@
             "pairs": []
         },
         {
-          
+          "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
             "type": "ARBITRUM",
             "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
             "name": "Dai Stablecoin",
@@ -53,7 +53,7 @@
             "pairs": []
         },
         {
-           
+           "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
             "type": "ARBITRUM",
             "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
             "name": "Tether USD",
@@ -64,7 +64,7 @@
             "pairs": []
         },
         {
-            
+            "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
             "type": "ARBITRUM",
             "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
             "name": "GMX",
@@ -75,7 +75,7 @@
             "pairs": []
         },
         {
-        
+        "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
             "type": "ARBITRUM",
             "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
             "name": "The Graph",
