@@ -1,6 +1,6 @@
  [
    {
-            "rpc": "https://rpc.ankr.com/arbitrum",
+            "rpc": "https://arb1.arbitrum.io/rpc",
             "chartTool": "https://www.dextools.io/app/en/arbitrum/pair-explorer/",
             "chainId": 42161,
             "explorer": "https://arbiscan.io",
