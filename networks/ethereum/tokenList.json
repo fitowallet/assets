@@ -5,7 +5,21 @@
             "explorer": "https://etherscan.io/",
             "accountName": "ethereum",
             "historyId": "eth-mainnet"
-        }, {
+        }, 
+             {
+    "asset": "c10009000_t0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",    
+            "type": "ERC20",
+            "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+            "name": "Arbitrum",
+            "symbol": "ARB",
+          "cmcId": "https://coinmarketcap.com/currencies/arbitrum/",
+    "description": "$ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to collectively shape the future of Arbitrum protocols and chains. Token holders can also delegate their voting power to delegates.",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png",
+            "pairs": []
+        },
+            
+            {
 
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "type": "ERC20",
