@@ -2,7 +2,7 @@
     "name": "Solana",
     "website": "https://solana.com/",
     "description": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.",
-    "explorer": "https://explorer.solana.com",
+    "explorer": "https://solscan.io/",
     "symbol": "SOL",
     "type": "network",
     "decimals": 9,
