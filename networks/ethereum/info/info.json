@@ -2,14 +2,13 @@
     "name": "Ethereum",
     "website": "https://ethereum.org/",
     "description": "Open source platform to write and distribute decentralized applications.",
-    "explorer": "https://etherscan.io/",
+    "explorer": "https://etherscan.io",
     "research": "https://research.binance.com/en/projects/ethereum",
     "symbol": "ETH",
     "type": "network",
     "decimals": 18,
     "chartTool": "https://www.dextools.io/app/en/ether/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
-    "logo": "https://github.com/fitowallet/assets/blob/main/networks/ethereum/info/logo.png",
     "links": [
        
        {
