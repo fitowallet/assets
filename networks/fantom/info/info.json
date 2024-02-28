@@ -1,0 +1,16 @@
+{
+    "name": "Fantom",
+    "website": "https://fantom.foundation/",
+    "description": "A DAG-Based Smart-Contract Platform.",
+    "explorer": "https://ftmscan.com",
+    "research": "",
+    "symbol": "FTM",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/fantom/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/fantom/",
+    "logo": "",
+    "links": [
+       
+    ]
+}
