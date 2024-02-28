@@ -1,0 +1,16 @@
+{
+    "name": "OKXChain",
+    "website": "https://www.okx.com/",
+    "description": "OKB is a global utility token issued by OK Blockchain foundation.",
+    "explorer": "https://www.oklink.com/oktc",
+    "research": "",
+    "symbol": "OKT",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/oktc/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/okt/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/harmony/info/logo.png",
+    "links": [
+       
+    ]
+}
