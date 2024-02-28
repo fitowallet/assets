@@ -1,0 +1,16 @@
+{
+    "name": "Optimism",
+    "website": "https://optimism.io/",
+    "description": "Optimism is a Layer 2 scaling solution for Ethereum.",
+    "explorer": "https://optimistic.etherscan.io",
+    "research": "",
+    "symbol": "OETH",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/optimism/pair-explorer",
+    "market": "https://coinmarketcap.com/currencies/ethereum/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/polygon/info/logo.png",
+    "links": [
+       
+    ]
+}
