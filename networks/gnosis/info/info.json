@@ -1,0 +1,16 @@
+{
+    "name": "Gnosis",
+    "website": "https://www.gnosis.io/",
+    "description": "Secured by a geographically diverse set of validators, Gnosis Chain is a community-owned, anti-fragile network.",
+    "explorer": "https://gnosis.blockscout.com/",
+    "research": "",
+    "symbol": "GNO",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/gnosis/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/gnosis-gno/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/cronos/info/logo.png",
+    "links": [
+       
+    ]
+}
