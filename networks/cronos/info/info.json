@@ -1,0 +1,16 @@
+{
+    "name": "Cronos",
+    "website": "https://crypto.com/",
+    "description": "Pay and be paid in crypto anywhere, with any crypto, for free.",
+    "explorer": "https://cronoscan.com",
+    "research": "",
+    "symbol": "CRO",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/cronos/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/cronos/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/polygon/info/logo.png",
+    "links": [
+       
+    ]
+}
