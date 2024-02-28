@@ -1,0 +1,16 @@
+{
+    "name": "Moonbeam",
+    "website": "https://moonbeam.network/",
+    "description": "Moonbeam combines the best of both worlds: the familiar and easy-to-use tooling of Ethereum and the scalable, interoperable architecture of Polkadot.",
+    "explorer": "https://moonscan.io/",
+    "research": "",
+    "symbol": "GLMR",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/moonbeam/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/moonbeam/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/moonbeam/info/logo.png",
+    "links": [
+       
+    ]
+}
