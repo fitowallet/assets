@@ -1,0 +1,16 @@
+{
+    "name": "Linea",
+    "website": "https://linea.build/",
+    "description": "Linea is a network that scales the experience of Ethereum.",
+    "explorer": "https://explorer.linea.build",
+    "research": "",
+    "symbol": "ETH",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/linea/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/ethereum/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/harmony/info/logo.png",
+    "links": [
+       
+    ]
+}
