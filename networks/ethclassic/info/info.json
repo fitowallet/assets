@@ -1,0 +1,16 @@
+{
+    "name": "Ethereum Classic",
+    "website": "https://ethereumclassic.org/",
+    "description": "Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract functionality.It is a continuation of the original Ethereum blockchain.",
+    "explorer": "https://blockscout.com/etc/mainnet/",
+    "research": "",
+    "symbol": "ETC",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/etc/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/ethereum-classic/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/ethclassic/info/logo.png",
+    "links": [
+       
+    ]
+}
