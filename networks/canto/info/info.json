@@ -1,0 +1,16 @@
+{
+    "name": "Canto",
+    "website": "https://www.canto.com/",
+    "description": "A modern digital asset management platform with everything you need.",
+    "explorer": "https://evm.explorer.canto.io/",
+    "research": "",
+    "symbol": "CANTO",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/canto/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/canto/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/canto/info/logo.png",
+    "links": [
+       
+    ]
+}
