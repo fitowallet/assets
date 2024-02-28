@@ -1,0 +1,16 @@
+{
+    "name": "Celo",
+    "website": "https://celo.org/",
+    "description": "Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.",
+    "explorer": "https://explorer.celo.org/",
+    "research": "",
+    "symbol": "CELO",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/celo/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/celo/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/celo/info/logo.png",
+    "links": [
+       
+    ]
+}
