@@ -1,0 +1,16 @@
+{
+    "name": "Aurora",
+    "website": "https://aurora.dev/",
+    "description": "Aurora provides Ethereum compatibility, NEAR Protocol scalability, and industry-first user experience through affordable transactions.",
+    "explorer": "https://explorer.mainnet.aurora.dev/",
+    "research": "",
+    "symbol": "ETH",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/aurora/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/ethereum/",
+    "logo": "",
+    "links": [
+       
+    ]
+}
