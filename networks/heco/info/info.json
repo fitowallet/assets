@@ -1,0 +1,16 @@
+{
+    "name": "Huobi Eco Chain",
+    "website": "https://www.hecochain.com/en-us/",
+    "description": "HECO is a decentralized and cost efficient public chain that Ethereum developers can easily get started with and smart contracts are seamlessly compatible.",
+    "explorer": "https://hecoinfo.com/",
+    "research": "",
+    "symbol": "HT",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/heco/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/htx-token/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/harmony/info/logo.png",
+    "links": [
+       
+    ]
+}
