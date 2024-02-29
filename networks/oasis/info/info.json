@@ -1,0 +1,16 @@
+{
+    "name": "Oasis Network",
+    "website": "https://oasisprotocol.org/",
+    "description": "The Oasis Network is a privacy-enabled scalable blockchain network built for open finance and a responsible data economy.",
+    "explorer": "https://www.oasisscan.com",
+    "research": "",
+    "symbol": "ROSE",
+    "type": "network",
+    "decimals": 8,
+    "chartTool": "https://www.dextools.io/app/en/oasis/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/oasis-network/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/oasis/info/logo.png",
+    "links": [
+       
+    ]
+}
