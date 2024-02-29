@@ -1,0 +1,16 @@
+{
+    "name": "Mantle Chain",
+    "website": "https://www.mantle.xyz",
+    "description": "Mantle Network is a technology stack for scaling Ethereum, and we strive to be EVM-compatible while doing so.",
+    "explorer": "https://explorer.mantle.xyz/blocks",
+    "research": "",
+    "symbol": "MNT",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/mantle/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/mantle/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/mantle/info/logo.png",
+    "links": [
+       
+    ]
+}
