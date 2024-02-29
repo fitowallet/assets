@@ -8,7 +8,7 @@
     "type": "network",
     "decimals": 18,
     "market": "https://coinmarketcap.com/currencies/rsk-smart-bitcoin/",
-    "logo": "https://github.com/fitowallet/assets/blob/main/networks/rootstock/info/logo.jpeg",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/rootstock/info/logo.png",
     "links": [
        
     ]
