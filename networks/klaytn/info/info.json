@@ -1,0 +1,16 @@
+{
+    "name": "Klaytn",
+    "website": "https://klaytn.foundation/",
+    "description": "Klaytn is an open-source public blockchain for all who wish to build, work, or play in the metaverse.",
+    "explorer": "https://scope.klaytn.com",
+    "research": "",
+    "symbol": "KLAY",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/klaytn/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/klaytn/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/klaytn/info/logo.png",
+    "links": [
+       
+    ]
+}
