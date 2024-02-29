@@ -1,0 +1,16 @@
+{
+    "name": "Moonriver",
+    "website": "https://moonbeam.network/networks/moonriver/",
+    "description": "Moonriver is a sister network of Moonbeam, and provides an environment to test new code under real economic conditions.",
+    "explorer": "https://moonriver.moonscan.io",
+    "research": "",
+    "symbol": "MOVR",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/moonriver/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/moonriver/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/moonriver/info/logo.png",
+    "links": [
+       
+    ]
+}
