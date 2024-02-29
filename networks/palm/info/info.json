@@ -1,0 +1,14 @@
+{
+    "name": "Palm",
+    "website": "https://palm.network/",
+    "description": "Palm network provides a new medium for creators to archive existing work and produce unique work using blockchain technology to engage with collectors and fans.",
+    "explorer": "https://explorer.palm.io",
+    "research": "",
+    "symbol": "PALM",
+    "type": "network",
+    "decimals": 18,
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/palm/info/logo.png",
+    "links": [
+       
+    ]
+}
