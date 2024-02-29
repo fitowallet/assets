@@ -1,0 +1,16 @@
+{
+    "name": "Telos",
+    "website": "https://telos.net/",
+    "description": "The world's fastest EVM. Tap into cutting-edge blockchain technology, explore dynamic cryptocurrency interoperability, and Join the Telos Evolution.",
+    "explorer": "https://www.teloscan.io",
+    "research": "",
+    "symbol": "TLOS",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/telos/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/telos/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/telos/info/logo.png",
+    "links": [
+       
+    ]
+}
