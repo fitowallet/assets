@@ -1,8 +1,8 @@
 {
     "name": "Canto",
-    "website": "https://www.canto.com/",
-    "description": "A modern digital asset management platform with everything you need.",
-    "explorer": "https://evm.explorer.canto.io/",
+    "website": "https://www.canto.io/",
+    "description": "Canto is a layer-1 blockchain built to deliver on the promise of defi.",
+    "explorer": "https://evm.explorer.canto.io",
     "research": "",
     "symbol": "CANTO",
     "type": "network",
