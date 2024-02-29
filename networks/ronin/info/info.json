@@ -1,0 +1,16 @@
+{
+    "name": "Ronin - Axie",
+    "website": "https://skymavis.com/",
+    "description": "Ronin unlocks explosive growth for Blockchain gaming and collectible projects.",
+    "explorer": "https://explorer.roninchain.com",
+    "research": "",
+    "symbol": "RON",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/ronin/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/ronin/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/ronin/info/logo.png",
+    "links": [
+       
+    ]
+}
