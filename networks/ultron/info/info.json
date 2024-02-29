@@ -1,0 +1,16 @@
+{
+    "name": "Ultron",
+    "website": "https://ultron.foundation/",
+    "description": "Reliable, trustworthy and easy to use Layer 1 solution that fights complexity, misinformation, unequal opportunities and powers a better future for all.",
+    "explorer": "https://ulxscan.com",
+    "research": "",
+    "symbol": "ULX",
+    "type": "network",
+    "decimals": 18,
+    "chartTool": "https://www.dextools.io/app/en/ultron/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/ultron/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/ultron/info/logo.png",
+    "links": [
+       
+    ]
+}
