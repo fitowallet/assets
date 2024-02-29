@@ -1,0 +1,15 @@
+{
+    "name": "Rootstock",
+    "website": "https://rootstock.io/",
+    "description": "Rootstock takes the security and resilience of Bitcoin and introduces smart contract functionality. The most resilient blockchain ecosystem working side by side with the world’s most secure smart contract network.",
+    "explorer": "https://explorer.rsk.co",
+    "research": "",
+    "symbol": "RBTC",
+    "type": "network",
+    "decimals": 18,
+    "market": "https://coinmarketcap.com/currencies/rsk-smart-bitcoin/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/rootstock/info/logo.png",
+    "links": [
+       
+    ]
+}
