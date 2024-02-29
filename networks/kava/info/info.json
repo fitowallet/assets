@@ -1,0 +1,16 @@
+{
+    "name": "Kava",
+    "website": "https://kava.io/",
+    "description": "Kava is a cross-chain DeFi Lending platform enabling stablecoin loans for users of major cryptocurrencies.",
+    "explorer": "https://kava.mintscan.io",
+    "research": "",
+    "symbol": "KAVA",
+    "type": "network",
+    "decimals": 6,
+    "chartTool": "https://www.dextools.io/app/en/kava/pair-explorer/",
+    "market": "https://coinmarketcap.com/currencies/kava/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/kava/info/logo.png",
+    "links": [
+       
+    ]
+}
