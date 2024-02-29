@@ -2,7 +2,7 @@
     "name": "Harmony",
     "website": "https://harmony.one/",
     "description": "Harmony aims to offer a high-throughput, low-latency, and low-fee consensus platform designed to power decentralized economies of the future.",
-    "explorer": "https://explorer.harmony.one/",
+    "explorer": "https://explorer.harmony.one",
     "research": "",
     "symbol": "ONE",
     "type": "network",
