@@ -256,6 +256,7 @@
             "address": "0x55d398326f99059fF775485246999027B3197955",
             "name": "Tether USD",
             "symbol": "USDT",
+            "cmcId": "https://coinmarketcap.com/currencies/tether/",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
             "pairs": []
