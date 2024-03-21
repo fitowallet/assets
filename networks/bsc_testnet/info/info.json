@@ -1,13 +1,13 @@
 {
     "name": "BNB Testnet",
     "website": "",
-    "description": "For development and deplyment on the BNB Smart Chain network.",
+    "description": "For development and testing on the BNB Smart Chain network.",
     "explorer": "https://testnet.bscscan.com/",
     "symbol": "tBNB",
     "type": "network",
     "decimals": 18,
-    "market": "https://coinmarketcap.com/currencies/ethereum/",
-    "logo": "https://github.com/fitowallet/assets/blob/main/networks/arbitrum/info/logo.png",
+    "market": "https://coinmarketcap.com/currencies/bnb/",
+    "logo": "https://github.com/fitowallet/assets/blob/main/networks/bsc_testnet/info/logo.png",
     "links": [
     ]
 }
