@@ -6,7 +6,6 @@
     "symbol": "tETH",
     "type": "network",
     "decimals": 18,
-    "market": "https://coinmarketcap.com/currencies/ethereum/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/eth_goerli/info/logo.png",
     "links": [
     ]
