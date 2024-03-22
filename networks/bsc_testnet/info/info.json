@@ -6,7 +6,6 @@
     "symbol": "tBNB",
     "type": "network",
     "decimals": 18,
-    "market": "https://coinmarketcap.com/currencies/bnb/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/bsc_testnet/info/logo.png",
     "links": [
     ]
