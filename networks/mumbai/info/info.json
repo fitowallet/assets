@@ -6,7 +6,6 @@
     "symbol": "tMATIC",
     "type": "network",
     "decimals": 18,
-    "market": "https://coinmarketcap.com/currencies/polygon/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/mumbai/info/logo.png",
     "links": [
     ]
