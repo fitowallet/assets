@@ -1,9 +1,9 @@
 {
-    "name": "Arbitrum ETH",
+    "name": "Arbitrum One",
     "website": "https://arbitrum.foundation/",
-    "description": "Arbitrum is an Ethereum Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private.",
+    "description": "Arbitrum One is an Ethereum Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private.",
     "explorer": "https://arbiscan.io",
-    "symbol": "ARETH",
+    "symbol": "ETH",
     "type": "network",
     "decimals": 18,
     "chartTool": "https://www.dextools.io/app/en/arbitrum/pair-explorer/",
