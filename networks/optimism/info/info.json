@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/optimism/pair-explorer",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/optimism/info/logo.png",
+    "geckoId": "optimism",
     "links": [
        
     ]
