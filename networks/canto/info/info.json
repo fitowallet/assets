@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/canto/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/canto/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/canto/info/logo.png",
+    "geckoId": "canto",
     "links": [
        
     ]
