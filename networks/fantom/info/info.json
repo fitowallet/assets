@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/fantom/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/fantom/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/fantom/info/logo.png",
+    "geckoId": "ftm",
     "links": [
        
     ]
