@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/kava/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/kava/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/kava/info/logo.png",
+    "geckoId": "kava",
     "links": [
        
     ]
