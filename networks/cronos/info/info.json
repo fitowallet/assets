@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/cronos/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/cronos/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/cronos/info/logo.png",
+    "geckoId": "cro",
     "links": [
        
     ]
