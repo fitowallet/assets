@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/ronin/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ronin/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/ronin/info/logo.png",
+    "geckoId": "ronin",
     "links": [
        
     ]
