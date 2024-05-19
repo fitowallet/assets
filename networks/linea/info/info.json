@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/linea/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/linea/info/logo.png",
+    "geckoId": "linea",
     "links": [
        
     ]
