@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/celo/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/celo/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/celo/info/logo.png",
+    "geckoId": "celo",
     "links": [
        
     ]
