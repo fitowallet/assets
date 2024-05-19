@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/etc/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum-classic/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/ethclassic/info/logo.png",
+    "geckoId": "ethereum_classic",
     "links": [
        
     ]
