@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/oasis/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/oasis-network/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/oasis/info/logo.png",
+    "geckoId": "oasis",
     "links": [
        
     ]
