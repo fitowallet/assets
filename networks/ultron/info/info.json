@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/ultron/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ultron/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/ultron/info/logo.png",
+    "geckoId": "ultron",
     "links": [
        
     ]
