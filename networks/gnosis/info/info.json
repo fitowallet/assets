@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/gnosis/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/gnosis-gno/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/gnosis/info/logo.png",
+    "geckoId": "xdai",
     "links": [
        
     ]
