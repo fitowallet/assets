@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/zksync/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/zksync/info/logo.png",
+    "geckoId": "zksync",
     "links": [
        
     ]
