@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/polygon/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/polygon/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/polygon/info/logo.png",
+    "geckoId": "polygon_pos",
     "links": [
        
     ]
