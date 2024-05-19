@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/telos/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/telos/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/telos/info/logo.png",
+    "geckoId": "tlos",
     "links": [
        
     ]
