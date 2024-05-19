@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/base/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/base/info/logo.png",
+    "geckoId": "base",
     "links": [
        
     ]
