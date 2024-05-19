@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/mantle/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/mantle/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/mantle/info/logo.png",
+    "geckoId": "mantle",
     "links": [
        
     ]
