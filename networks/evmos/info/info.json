@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/evmos/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/evmos/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/evmos/info/logo.png",
+    "geckoId": "evmos",
     "links": [
        
     ]
