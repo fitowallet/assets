@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/moonriver/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/moonriver/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/moonriver/info/logo.png",
+    "geckoId": "movr",
     "links": [
        
     ]
