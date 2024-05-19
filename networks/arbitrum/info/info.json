@@ -1,6 +1,6 @@
 {
     "name": "Arbitrum One",
-    "website": "https://arbitrum.foundation/",
+    "website": "https://arbitrum.io/",
     "description": "Arbitrum One is an Ethereum Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private.",
     "explorer": "https://arbiscan.io",
     "symbol": "ETH",
@@ -9,6 +9,7 @@
     "chartTool": "https://www.dextools.io/app/en/arbitrum/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/ethereum/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/arbitrum/info/logo.png",
+    "geckoId": "arbitrum",
     "links": [
     ]
 }
