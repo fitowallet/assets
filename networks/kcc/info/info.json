@@ -10,6 +10,7 @@
     "chartTool": "https://www.dextools.io/app/en/kucoin/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/kucoin-token/",
     "logo": "https://github.com/fitowallet/assets/blob/main/networks/kcc/info/logo.png",
+    "geckoId": "kcc",
     "links": [
        
     ]
