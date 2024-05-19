@@ -8,6 +8,7 @@
     "decimals": 9,
     "chartTool": "https://www.dextools.io/app/en/solana/pair-explorer/",
     "market": "https://coinmarketcap.com/currencies/solana/",
+    "geckoId": "solana",
     "links": [
     ]
 }
